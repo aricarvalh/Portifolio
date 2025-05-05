@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+body {
+    background-color: beige;
+}
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+    padding: 30px;
+    font-weight: bold;
+}
+
+li {
+    margin: 15px auto;
+    text-align: center;
+    padding: 10px 0;
+    background-color: rgb(251, 226, 193);
+    width: 30%;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+
+
+}
+
+.copyright {
+    color: #000;
+    font-size: 5px;
+    margin: 20px 0 0 ;
+}
+
+
